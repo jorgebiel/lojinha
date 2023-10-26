@@ -66,3 +66,18 @@ header nav a:hover{
     left:50%;
     transform:translate(-50%,-50%)
 }
+.container{
+    width: 100%;
+    min-width: 360px;
+    max-width: 1280px;
+    margin: auto;
+}
+.gold{
+    color: goldenrod;
+}
+.atalho{
+    color: black;
+}
+.coisa{
+    font-size: 20px;
+}
