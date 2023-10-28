@@ -82,6 +82,22 @@ header nav a:hover{
     font-size: 20px;
 }
 
+.form-contact input,
+.form-contact textarea{
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: #ddb99d;
+    border: solid 1px #eee ;
+    border-radius: 5px;
+}
+
+.form-contact button{
+    padding: 5px 10px;
+    background-color: #eee;
+    border: solid 4px #ffaa00;
+}
+
 /* Mobile */
 @media  (max-width:980px) {
     .logo{
